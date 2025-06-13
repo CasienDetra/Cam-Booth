@@ -1,7 +1,8 @@
+import Lanyard from "./components/reactbit/Lanyard/Lanyard.jsx";
 function App() {
   return (
     <>
-      <div className="font-bold text-teal-900">Hello world</div>
+      <Lanyard position={[0, 0, 20]} gravity={[0, -40, 0]} />
     </>
   );
 }
