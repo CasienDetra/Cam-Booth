@@ -20,7 +20,7 @@ import { MeshLineGeometry, MeshLineMaterial } from "meshline";
 
 // replace with your own imports, see the usage snippet for details
 import cardGLB from "./card.glb";
-import lanyard from "./lanyard.png";
+import lanyard from "./lanyard .png";
 
 import * as THREE from "three";
 
